@@ -1,0 +1,14 @@
+
+ https://www.youtube.com/watch?v=pkIEV2Yls_8 ----->segurança Spring Boot
+ https://www.youtube.com/watch?v=t6prPki7daU&t=4097s ----->segurança Spring Boot
+
+ Referência: https://docs.spring.io/spring-security/reference/servlet/configuration/java.html
+
+ https://github.com/nelsonjucoski/exercicioM3S04/tree/implementa%C3%A7%C3%A3o-segura
+ https://github.com/MichelliBrito/parking-control-api/tree/security
+
+ Novas recomendações Spring Web Security
+ https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
+
+ modelos de LISTAS ON LINE:
+ https://guiafacil.com/
